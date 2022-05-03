@@ -21,8 +21,8 @@ To write a python program to perform random classification.
 ```python
 
 #Program to implement random classification.
-#Developed by   : JAYASHREE RAO V
-#Register Number : 212220230023
+#Developed by   : Lishali R 
+#Register Number : 212220230028
 
 
 import matplotlib.pyplot as plt
